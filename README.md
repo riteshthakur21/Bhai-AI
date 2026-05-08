@@ -18,7 +18,7 @@ Bhai AI is a Node.js Hinglish assistant that combines chat with practical action
 - Google Chrome installed (used by Puppeteer with Windows Chrome path)
 - A valid **Groq API key** in `.env`
 - WhatsApp QR login on first run
-
+-- system controle
 ## Setup
 
 1. Install dependencies:
