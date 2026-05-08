@@ -4,7 +4,6 @@ node_modules/
 # WhatsApp/WebJS Authentication & Cache (Isme tere login sessions hote hain, inhe public mat karna)
 .wwebjs_auth/
 .wwebjs_cache/
-.check.js
 
 # Environment variables (Private keys aur API secrets)
 .env
