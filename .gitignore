@@ -1,0 +1,20 @@
+# Dependency folders (Ye bahut heavy hoti hain)
+node_modules/
+
+# WhatsApp/WebJS Authentication & Cache (Isme tere login sessions hote hain, inhe public mat karna)
+.wwebjs_auth/
+.wwebjs_cache/
+
+
+# Environment variables (Private keys aur API secrets)
+.env
+.env.*
+
+# Logs (Jo faltu ki files ban jati hain)
+*.log
+console.log(m.name))) 
+
+# Media/System files
+screenshots/
+.DS_Store
+Thumbs.db
